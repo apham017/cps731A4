@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Assignment4</string>
+    <string name="tit">Titles</string>
+    <string name="fil">Fills</string>
+    <string-array name="fgarchetypes">
+        <item>allrounder</item>
+        <item>zoner</item>
+        <item>grappler</item>
+        <item>wildcard</item>
+        <item>joke</item>
+    </string-array>
+    <string-array name="description">
+        <item>he standard</item>
+        <item>he keep away</item>
+        <item>he grab</item>
+        <item>he gimmick</item>
+        <item>he funny</item>
+    </string-array>
+</resources>
